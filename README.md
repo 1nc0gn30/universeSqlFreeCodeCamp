@@ -1,7 +1,18 @@
 <!-- xonettn -->
 <div align="center">
 
-# 📦 Universesqlfreecodecamp
+# 📦 📦 Universesqlfreecodecamp
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+
+</div>
+
+---
+
+<!-- xonettn -->
+<div align="center">
+
 
 universeSqlFreeCodeCamp — a project by Neal Frazier
 
@@ -11,6 +22,14 @@ universeSqlFreeCodeCamp — a project by Neal Frazier
 ---
 
 
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
 
 ---
 
